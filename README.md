@@ -16,7 +16,7 @@ echo -e "search blue.kundencontroller.de\noptions rotate\nnameserver 2001:67c:2b
 > 目前只有centos版,其他待更新........... 支持多个账号
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontent.com/hngyedu/EUserv_extend/main/Euserv.sh && chmod +x Euserv.sh && ./Euserv.sh
+wget -N --no-check-certificate https://github.com/MTkej122/EUserv_extend/blob/main/Euserv.sh && chmod +x Euserv.sh && ./Euserv.sh
 ```
 
 ##### Chromedriver驱动下载
